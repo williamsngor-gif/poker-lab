@@ -1,0 +1,1 @@
+Extract ZIP. Upload index.html, manifest.webmanifest, sw.js and both PNG icons to the root of a public GitHub repository. Settings > Pages > Deploy from a branch > main > / (root). Open published HTTPS URL in Safari, Share > Add to Home Screen. Load online once before offline use.
